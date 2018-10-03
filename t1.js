@@ -1,4 +1,4 @@
-// v1 - add autofixable code
+// v2 - update comment
 
 if (Boolean(foo)) {
     // ...
