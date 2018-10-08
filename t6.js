@@ -1,8 +1,8 @@
 // v7
-if (!!foo) {
+if (foo) {
     // ...
 }
 
-if (!!foo) {
+if (foo) {
     // ...
 }
